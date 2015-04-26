@@ -1,0 +1,7 @@
+C:\Users\James\documents\visual studio 2013\Projects\OperationSpan\Build\Content\font.xnb
+C:\Users\James\documents\visual studio 2013\Projects\OperationSpan\Build\SDL.dll
+C:\Users\James\documents\visual studio 2013\Projects\OperationSpan\Build\OperationSpan.exe
+C:\Users\James\documents\visual studio 2013\Projects\OperationSpan\Build\OperationSpan.pdb
+C:\Users\James\documents\visual studio 2013\Projects\OperationSpan\OperationSpan\obj\x86\Debug\OperationSpan.csprojResolveAssemblyReference.cache
+C:\Users\James\documents\visual studio 2013\Projects\OperationSpan\OperationSpan\obj\x86\Debug\OperationSpan.exe
+C:\Users\James\documents\visual studio 2013\Projects\OperationSpan\OperationSpan\obj\x86\Debug\OperationSpan.pdb
